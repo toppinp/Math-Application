@@ -1,0 +1,13 @@
+C:\Users\patri\OneDrive\Working MSSA Code\MathApp2\MathApp2\obj\Debug\netcoreapp3.1\MathApp2.csprojAssemblyReference.cache
+C:\Users\patri\OneDrive\Working MSSA Code\MathApp2\MathApp2\obj\Debug\netcoreapp3.1\MathApp2.AssemblyInfoInputs.cache
+C:\Users\patri\OneDrive\Working MSSA Code\MathApp2\MathApp2\obj\Debug\netcoreapp3.1\MathApp2.AssemblyInfo.cs
+C:\Users\patri\OneDrive\Working MSSA Code\MathApp2\MathApp2\obj\Debug\netcoreapp3.1\MathApp2.csproj.CoreCompileInputs.cache
+C:\Users\patri\OneDrive\Working MSSA Code\MathApp2\MathApp2\bin\Debug\netcoreapp3.1\MathApp2.exe
+C:\Users\patri\OneDrive\Working MSSA Code\MathApp2\MathApp2\bin\Debug\netcoreapp3.1\MathApp2.deps.json
+C:\Users\patri\OneDrive\Working MSSA Code\MathApp2\MathApp2\bin\Debug\netcoreapp3.1\MathApp2.runtimeconfig.json
+C:\Users\patri\OneDrive\Working MSSA Code\MathApp2\MathApp2\bin\Debug\netcoreapp3.1\MathApp2.runtimeconfig.dev.json
+C:\Users\patri\OneDrive\Working MSSA Code\MathApp2\MathApp2\bin\Debug\netcoreapp3.1\MathApp2.dll
+C:\Users\patri\OneDrive\Working MSSA Code\MathApp2\MathApp2\bin\Debug\netcoreapp3.1\MathApp2.pdb
+C:\Users\patri\OneDrive\Working MSSA Code\MathApp2\MathApp2\obj\Debug\netcoreapp3.1\MathApp2.dll
+C:\Users\patri\OneDrive\Working MSSA Code\MathApp2\MathApp2\obj\Debug\netcoreapp3.1\MathApp2.pdb
+C:\Users\patri\OneDrive\Working MSSA Code\MathApp2\MathApp2\obj\Debug\netcoreapp3.1\MathApp2.genruntimeconfig.cache
